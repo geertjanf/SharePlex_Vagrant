@@ -1,0 +1,5 @@
+xlsdate,captxndate,captxntime,oralog,caplog,capoffset,logdiff,actID,opsCaptured,txnCaptured,conSess,HWMconSess,readtxndate,readtxntime,totalmsg,backlogmsg,redolog,readoffset,opsfwdcnt,txnfwdcnt,fullrollback,fullrollbackskipped,updfullkey,updcachekey,updoraclekey,curhitcnt,curmisscnt,opencursors,activebatch,batchtotal,backlogmsg,spaceleftKB,spaceleftMB,spaceleftGB,percentused,xlsyymmdd,xlstime
+2016-Oct-16 23:45:09,10/16/16,23:45:06,490,490,446732,0,20,124114,7707,0,2,10/16/16,23:45:06,9,0,490,446732,124114,7707,0,0,0,0,0,0,0,0,0,90992,0,238952,233,0,,20161016,23:45:09
+2016-Oct-16 23:45:18,10/16/16,23:45:15,490,490,3889632,0,20,124378,7795,0,2,10/16/16,23:45:15,6,0,490,2841312,124378,7795,0,0,0,0,0,0,0,0,0,90992,0,237044,231,0,97%,20161016,23:45:18
+2016-Oct-16 23:45:23,10/16/16,23:45:20,490,490,17822476,0,20,154529,7846,0,2,10/16/16,23:45:20,54,0,490,17822476,154529,7846,0,0,0,0,0,0,0,0,0,120990,0,228820,223,0,98%,20161016,23:45:23
+2016-Oct-16 23:45:27,10/16/16,23:45:24,490,490,17939868,0,20,154646,7885,0,2,10/16/16,23:45:24,6,0,490,17939868,154646,7885,0,0,0,0,0,0,0,0,0,120990,0,228580,223,0,98%,20161016,23:45:27

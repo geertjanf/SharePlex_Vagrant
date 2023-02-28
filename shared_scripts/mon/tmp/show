@@ -1,0 +1,5 @@
+Process    Source                               Target                 State                   PID
+---------- ------------------------------------ ---------------------- -------------------- ------
+Capture    o.pdb1                                                      Running               15230
+Read       o.pdb1                                                      Running               15232
+Export     ol7-19-splex1                        ol7-19-splex2          Running               15249

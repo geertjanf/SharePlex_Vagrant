@@ -1,0 +1,4 @@
+USER     COMMAND           PID %CPU
+oracle   sp_ocap         15230  6.2
+oracle   sp_ordr         15232  2.3
+oracle   sp_xport        15249  0.2

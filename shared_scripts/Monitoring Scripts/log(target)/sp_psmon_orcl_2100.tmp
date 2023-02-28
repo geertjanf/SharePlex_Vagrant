@@ -1,0 +1,16 @@
+
+*******************************************************
+* SharePlex for Oracle Command Utility
+* Copyright 2016 Dell, Inc.
+* ALL RIGHTS RESERVED.
+* Protected by U.S. Patents: 7,461,103 and 7,065,538
+*******************************************************
+
+   Default port is now set to 2100
+
+Process    Source                               Target                 State                   PID
+---------- ------------------------------------ ---------------------- -------------------- ------
+Import     linuxa                               linuxb                 Running                2372
+Post       o.orcl-t1                            o.orcl                 Running                2373
+Post       o.orcl-t2                            o.orcl                 Running                2374
+

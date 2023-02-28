@@ -1,0 +1,41 @@
+
+*******************************************************
+* SharePlex for Oracle Command Utility
+* Copyright 2016 Dell, Inc.
+* ALL RIGHTS RESERVED.
+* Protected by U.S. Patents: 7,461,103 and 7,065,538
+*******************************************************
+
+   Default port is now set to 2100
+
+Host: linuxa     System time: 16-Oct-16 23:45:27
+
+                           Operations
+Source     Status            Captured Since
+---------- --------------- ---------- ------------------
+o.orcl     Running             154646 13-Oct-16 19:56:38
+
+   Oracle current redo log          : 490
+   Capture current redo log         : 490
+   Capture log offset               : 17939868
+   Last redo record processed:      
+        Operation on "TONY"."T2" at 10/16/16 23:45:24
+
+   Capture state                    : Processing
+   Activation id                    : 20
+   Error count                      : 0
+   Operations captured              : 154646
+   Transactions captured            : 7885
+
+   Concurrent sessions              : 0
+   HWM concurrent sessions          : 2
+   Checkpoints performed            : 982
+   Total operations processed       : 332035
+   Total transactions completed     : 195218
+   Total Kbytes read                : 484912
+
+   Redo records in progress         : 0
+   Redo records processed           : 1120107
+   Redo records ignored             : 788072
+   Redo records - last HRID         : AAAEZ9AAEAAAAiUAGH
+

@@ -1,0 +1,11 @@
+awk '
+function color(c,s) {
+        printf("\033[%dm%s\033[0m\n",30+c,s)
+}
+/error/ {color(1,$0);next}
+/Running/ {color(2,$0);next}
+/Stopped by user/ {color(3,$0);next}
+/Process/ {color(4,$0);next}
+/Idle/ {color(5,$0);next}
+{print}
+' $1

@@ -1,0 +1,20 @@
+
+*******************************************************
+* SharePlex for Oracle Command Utility
+* Copyright 2016 Dell, Inc.
+* ALL RIGHTS RESERVED.
+* Protected by U.S. Patents: 7,461,103 and 7,065,538
+*******************************************************
+
+   Default port is now set to 2100
+
+Queues Statistics for linuxb
+  Name:  t1 (o.orcl-o.orcl) (Post queue)
+    Number of messages:          0 (Age         0 min; Size         22 mb)
+    Backlog (messages):          0 (Age         0 min)
+
+  Name:  t2 (o.orcl-o.orcl) (Post queue)
+    Number of messages:          4 (Age         0 min; Size         22 mb)
+    Backlog (messages):          0 (Age         0 min)
+
+

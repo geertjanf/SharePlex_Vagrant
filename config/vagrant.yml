@@ -1,0 +1,24 @@
+shared:
+  box: oraclebase/oracle-7
+  non_rotational: 'on'
+
+node1:
+  vm_name: ol7_19_splex1
+  mem_size: 4096
+  cpus: 2
+  public_ip: 192.168.56.101
+  u01_disk: ./ol7_19_splex1_u01.vdi
+
+node2:
+  vm_name: ol7_19_splex2
+  mem_size: 4096
+  cpus: 2
+  public_ip: 192.168.56.102
+  u01_disk: ./ol7_19_splex2_u01.vdi
+
+node4:
+  vm_name: ol7_foglight
+  mem_size: 8192
+  cpus: 4
+  public_ip: 192.168.56.104
+  u01_disk: ./ol7_foglight_u01.vdi

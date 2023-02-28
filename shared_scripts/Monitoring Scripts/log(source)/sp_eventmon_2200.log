@@ -1,0 +1,37 @@
+ 
+The following errors were found in the SharePlex event log for instance: 2200 at [Sun Oct 16 23:45:43 CST 2016]
+There are [7] more lines
+ 
+ 
+Line# 36: SharePlex Instance:2200: Error    2016-10-13 15:02:28.242326 17937 1185556320 Reader: No space left on device 11057 - write failed  (from orcl) [module ord]
+Line# 42: SharePlex Instance:2200: Error    2016-10-13 19:35:11.089070 17932 1325033312 Capture: [SP-QUE01001] Process stopped. Disk is full.  <CAUSE> The disk space may have fallen below the limit specified by Shareplex parameter SP_SYS_VAR_FULL.  <ADVICE> Add more space to the SharePlex Line# 44: SharePlex Instance:2200: Error    2016-10-13 19:35:11.093126 17932 1325033312 Disk is full: /quest/splex/vardir22/rim
+Line# 57: SharePlex Instance:2200: Error    2016-05-20 19:22:09.416000 7368 7816 s:7 Poster: que/seq = 7/ 1706504515 seqno/offset = 18569/43264720 Unexpected Oracle error: ORA-00028: your session has been killed. (object name: "STARLINK"."POEDI_ITM")  (posting from phkmlg, queue NTPRD13, tLine# 57: SharePlex Instance:2200: Error    2016-05-20 19:22:09.416000 7368 7816 s:7 Poster: que/seq = 7/ 1706504515 seqno/offset = 18569/43264720 Unexpected Oracle error: ORA-00028: your session has been killed. (object name: "STARLINK"."POEDI_ITM")  (posting from phkmlg, queue NTPRD13, tLine# 60: SharePlex Instance:2200: Error    2016-05-20 19:28:14.957000 6864 5064 Poster: 12069 - OCITransRollback failed with ORA-28.  (posting from phkmlg, queue NTPRD13, to rhkmlg) [module osp]
+Line# 60: SharePlex Instance:2200: Error    2016-05-20 19:28:14.957000 6864 5064 Poster: 12069 - OCITransRollback failed with ORA-28.  (posting from phkmlg, queue NTPRD13, to rhkmlg) [module osp]
+Line# 61: SharePlex Instance:2200: Error    2016-05-20 19:28:14.957000 6864 5064 Poster: 15045 - failed to rollback transaction session 18 in RrbPartialRollback(): ORA-00028: your session has been killed..  (posting from phkmlg, queue NTPRD13, to rhkmlg) [module opo]
+Line# 61: SharePlex Instance:2200: Error    2016-05-20 19:28:14.957000 6864 5064 Poster: 15045 - failed to rollback transaction session 18 in RrbPartialRollback(): ORA-00028: your session has been killed..  (posting from phkmlg, queue NTPRD13, to rhkmlg) [module opo]
+Line# 62: SharePlex Instance:2200: Notice   2016-05-20 19:28:14.973000 6864 5064 Poster: ORA-01012: not logged on.Process ID: 5808.Session ID: 626 Serial number: 58401.  (posting from phkmlg, queue NTPRD13, to rhkmlg) [module osp]
+Line# 63: SharePlex Instance:2200: Error    2016-05-20 19:28:14.973000 6864 5064 Poster: Unexpected Oracle error: ORA-01012: not logged on.Process ID: 5808.Session ID: 626 Serial number: 58401. in d:\starsrc\shareplex-60\8.6.2.048\src\opst_mt\connection.cpp:646  (posting from phkmlg, queueLine# 63: SharePlex Instance:2200: Error    2016-05-20 19:28:14.973000 6864 5064 Poster: Unexpected Oracle error: ORA-01012: not logged on.Process ID: 5808.Session ID: 626 Serial number: 58401. in d:\starsrc\shareplex-60\8.6.2.048\src\opst_mt\connection.cpp:646  (posting from phkmlg, queue 
+ 
+Binary Directory:     [/quest/splex/bin]
+VarDir Directory:     [/quest/splex/vardir22]
+Monitoring Directory: [/quest/splex/script/log]
+iwgrep Directory:     [/quest/splex/util]
+email error?:         [TRUE]
+ 
+###################################### 
+ 
+no error on [Sun Oct 16 23:45:46 CST 2016]
+ 
+no error on [Sun Oct 16 23:45:56 CST 2016]
+ 
+no error on [Sun Oct 16 23:45:58 CST 2016]
+ 
+no error on [Sun Oct 16 23:46:30 CST 2016]
+ 
+no error on [Sun Oct 16 23:46:45 CST 2016]
+ 
+no error on [Sun Oct 16 23:47:05 CST 2016]
+ 
+no error on [Sun Oct 16 23:47:07 CST 2016]
+ 
+no error on [Sun Oct 16 23:47:09 CST 2016]

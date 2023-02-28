@@ -1,0 +1,54 @@
+Notice   2022-12-21 15:39:42.482840 15249 2140702656 Export: Fetching attributes for file</u01/app/quest/vardir/2100/data/statusdb.new>  (expor
+Notice   2022-12-21 15:39:42.482900 15249 2140702656 Export: st_mode=100644 Modified at<Wed Dec 21 15:39:42 2022 >  (exporting to ol7-19-splex2
+Notice   2022-12-21 15:39:42.482918 15249 2140702656 Export: Fetching attributes for file</u01/app/quest/vardir/2100/data/statusdb>  (exporting
+Notice   2022-12-21 15:39:42.482948 15249 2140702656 Export: st_mode=100644 Modified at<Wed Dec 21 15:39:32 2022 >  (exporting to ol7-19-splex2
+Notice   2022-12-21 15:39:42.482979 15249 2140702656 Export: stt_write before rename </u01/app/quest/vardir/2100/data/statusdb.new> to </u01/ap
+Notice   2022-12-21 15:39:42.483027 15249 2140702656 Export: After RENAME Fetching attributes for file</u01/app/quest/vardir/2100/data/statusdb
+Notice   2022-12-21 15:39:42.483090 15249 2140702656 Export: st_mode=100644 Modified at<Wed Dec 21 15:39:42 2022 >  (exporting to ol7-19-splex2
+Info     2022-12-21 15:39:42.484611 15249 2140702656 Export connected to import on ol7-19-splex2
+Notice   2022-12-21 15:51:50.571212 15232 4025206720 Reader: Oracle Available  (from o.pdb1) [module ord]
+Notice   2022-12-21 15:51:51.613440 15232 4025206720 Reader: Table "TEST"."TEST" (obj_id:29724891) was truncated  (from o.pdb1) [module ord]
+Notice   2022-12-21 15:52:13.729439 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_151_1123510560.dbf
+Notice   2022-12-21 15:52:16.951852 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_152_1123510560.dbf
+Notice   2022-12-21 15:52:20.131316 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_153_1123510560.dbf
+Notice   2022-12-21 15:52:23.030436 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_154_1123510560.dbf
+Notice   2022-12-21 15:52:26.844117 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_155_1123510560.dbf
+Notice   2022-12-21 15:52:32.106037 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_157_1123510560.dbf
+Notice   2022-12-21 15:52:35.799227 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_158_1123510560.dbf
+Notice   2022-12-21 15:52:39.075746 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_159_1123510560.dbf
+Notice   2022-12-21 15:52:42.587311 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_160_1123510560.dbf
+Notice   2022-12-21 15:52:45.738314 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_161_1123510560.dbf
+Notice   2022-12-21 15:52:48.130398 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_162_1123510560.dbf
+Notice   2022-12-21 15:52:51.000295 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_163_1123510560.dbf
+Notice   2022-12-21 15:52:54.461920 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_164_1123510560.dbf
+Notice   2022-12-21 15:52:57.718945 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_165_1123510560.dbf
+Notice   2022-12-21 15:53:01.004680 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_166_1123510560.dbf
+Notice   2022-12-21 15:53:04.182988 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_167_1123510560.dbf
+Notice   2022-12-21 15:53:06.695076 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_168_1123510560.dbf
+Notice   2022-12-21 15:53:10.161385 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_169_1123510560.dbf
+Notice   2022-12-21 15:53:13.100858 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_170_1123510560.dbf
+Notice   2022-12-21 15:53:16.475677 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_171_1123510560.dbf
+Notice   2022-12-21 15:53:19.923992 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_172_1123510560.dbf
+Notice   2022-12-21 15:53:22.988052 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_173_1123510560.dbf
+Notice   2022-12-21 15:53:28.125738 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_174_1123510560.dbf
+Notice   2022-12-21 15:53:31.070794 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_175_1123510560.dbf
+Notice   2022-12-21 15:53:34.528506 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_176_1123510560.dbf
+Notice   2022-12-21 15:53:37.368446 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_177_1123510560.dbf
+Notice   2022-12-21 15:53:40.727305 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_178_1123510560.dbf
+Notice   2022-12-21 15:53:43.974995 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_179_1123510560.dbf
+Notice   2022-12-21 15:53:47.348885 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_180_1123510560.dbf
+Notice   2022-12-21 15:53:50.903828 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_181_1123510560.dbf
+Notice   2022-12-21 15:53:53.916334 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_182_1123510560.dbf
+Notice   2022-12-21 15:53:56.913105 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_183_1123510560.dbf
+Notice   2022-12-21 15:53:59.105501 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_184_1123510560.dbf
+Notice   2022-12-21 15:54:02.584846 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_185_1123510560.dbf
+Notice   2022-12-21 15:54:05.748144 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_186_1123510560.dbf
+Notice   2022-12-21 15:54:09.090154 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_187_1123510560.dbf
+Notice   2022-12-21 15:54:12.644792 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_188_1123510560.dbf
+Notice   2022-12-21 15:54:14.092033 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_189_1123510560.dbf
+Notice   2022-12-21 15:54:15.975819 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_190_1123510560.dbf
+Notice   2022-12-21 15:54:21.171213 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_191_1123510560.dbf
+Notice   2022-12-21 15:54:22.771912 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_192_1123510560.dbf
+Notice   2022-12-21 15:54:24.295345 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_193_1123510560.dbf
+Notice   2022-12-21 15:54:28.377382 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_194_1123510560.dbf
+Notice   2022-12-21 15:54:33.865761 15230 467195648 Capture: Using archive log /u01/app/oracle/product/19/dbhome_1/dbs/arch1_196_1123510560.dbf

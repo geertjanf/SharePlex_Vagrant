@@ -1,0 +1,20 @@
+
+*******************************************************
+* SharePlex for Oracle Command Utility
+* Copyright 2016 Dell, Inc.
+* ALL RIGHTS RESERVED.
+* Protected by U.S. Patents: 7,461,103 and 7,065,538
+*******************************************************
+
+   Default port is now set to 2100
+
+Queues Statistics for linuxa
+  Name:  o.orcl (Capture queue)
+    Number of messages:          6 (Age         0 min; Size          0 mb)
+    Backlog (messages):          0 (Age         0 min)
+
+  Name:  linuxa (Export queue)
+    Number of messages:       3583 (Age         1 min; Size         65 mb)
+    Backlog (messages):          0 (Age         0 min)
+
+

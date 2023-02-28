@@ -1,0 +1,42 @@
+There are 8 scripts in total (4 more than those that comes after installation).
+
+sp_capreadstats.sh – Capture and reader statistics (a csv file e.g. sp_capreadstats_2100.csv)
+sp_speedofpost.sh – Post details information (a csv file e.g. sp_speedofpost_2100.csv)
+sp_eventmon.sh – Monitoring for “warning/error” from event_log
+sp_logmon.sh – How many logs is Capture behind Oracle log writer
+sp_psmon.sh – SharePlex Process monitor (sp_cop, capture, read, export, import, post)
+sp_qstatmon.sh – SharePlex Queue Status monitor
+
+sp_mon.source.sh – Main monitoring script running on Source that will run the relevant scripts by passing in the necessary parameters
+sp_mon.target.sh – Main monitoring script running on Target that will run the relevant scripts by passing in the necessary parameters
+
+
+cron the two main scripts to run every hour (one on source and one on target)
+and each of them will run their respective script.
+
+sp_mon.source.sh
+              sp_capreadstats.sh
+               sp_psmon.sh
+               sp_eventmon.sh
+               sp_logmon.sh
+               sp_qstatmon.sh
+               
+sp_mon.target.sh
+               sp_psmon.sh
+               sp_eventmon.sh
+               sp_logmon.sh
+              sp_speedofpost.sh
+
+Things to do before running the scripts:
+1)	Create a script directory on source and target to put the scripts 
+2)	FTP all scripts over to server using ASCII mode and change all modes to 775
+3)	Create a monitor directory on source and target to put all the output of the scripts + temporary files created by the scripts.
+4)	Edit (vi) sp_mon.source.sh and sp_mon.target.sh script to change all environment variables
+	a.	If you run more than one sp_cop on source/target, each sp_cop, you need to run one set of scripts
+		i.   i.e. for source sp_cop 2100 you need one set of sp_capreadstats.sh and sp_qstatmon.sh
+		ii.  i.e. for source sp_cop 2200 you need one set of sp_capreadstats.sh and sp_qstatmon.sh
+		iii. the temporary files are all post fixed with their port numbers 
+5)	You do not need to edit any of the other scripts, unless you want to enable email via mailx, they are currenty commented off
+6)	The user can FTP out the csv files every day and they will be able to see the speed and volume processed (per hour) by SharePlex
+	a.	sp_capreadstats_2100.csv
+	b.	sp_speedofpost_2100.csv

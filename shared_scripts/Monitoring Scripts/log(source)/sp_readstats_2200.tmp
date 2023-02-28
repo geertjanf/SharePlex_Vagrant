@@ -1,0 +1,44 @@
+
+*******************************************************
+* SharePlex for Oracle Command Utility
+* Copyright 2016 Dell, Inc.
+* ALL RIGHTS RESERVED.
+* Protected by U.S. Patents: 7,461,103 and 7,065,538
+*******************************************************
+
+   Default port is now set to 2200
+
+Host: linuxa
+                           Operations
+Source     Status           Forwarded Since              Total      Backlog
+---------- --------------- ---------- ------------------ ---------- ----------
+o.orcl     Running..           316729 14-Oct-16 13:19:18          0          0
+
+   Last operation forwarded:        
+        Redo log: 492        Log offset: 6454800     
+        TRUNCATE "TONY"."T5" at 10/16/16 23:46:52
+
+   Read state                       : Processing, pass1
+   Activation id                    : 20
+   Snapshot too old count           : 0
+   Number of pass cycles            : 64395
+   Operations in last pass          : 2
+   Peak operations in a pass        : 30043
+
+   Operations forwarded             : 316729
+   Transactions forwarded           : 36435
+
+   Full rollbacks                   : 0
+   Full rollback operations skipped : 0
+
+   Updates with complete key        : 0
+   Updates with key in cache        : 0
+   Updates with key from Oracle     : 0
+
+   Cursor cache hit count           : 0
+   Cursor cache miss count          : 0
+   Number of open cursors           : 0
+
+   Number of active batches         : 0
+   Batch message total              : 166987
+

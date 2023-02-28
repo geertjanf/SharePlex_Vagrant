@@ -1,0 +1,7 @@
+Queues Statistics for ol7-19-splex1.localdomain
+  Name:  o.pdb1 (Capture queue)
+    Number of messages:      13259 (Age         0 min; Size          7 mb)
+    Backlog (messages):          0 (Age         0 min)
+  Name:  ol7-19-splex1 (Export queue)
+    Number of messages:       7255 (Age         0 min; Size        100 mb)
+    Backlog (messages):          0 (Age         0 min)
